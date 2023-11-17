@@ -8,7 +8,7 @@ La tarjeta gráfica NVIDIA GeForce RTX 3080 es un componente de hardware que lle
 
 **Características:**
 
-1. **Arquitectura Ampere:** Basada en la arquitectura de GPU Ampere de NVIDIA para un rendimiento y eficiencia excepcionales
+1. **Arquitectura Ampere:** Basada en la arquitectura de GPU Ampere de NVIDIA para un rendimiento y eficiencia excepcionales.
 
 2. **Núcleos CUDA:** Equipada con un gran número de núcleos CUDA para el procesamiento paralelo, mejorando el rendimiento en tareas intensivas.
 
