@@ -9,3 +9,5 @@
 | Descripción         | Este curso se centra en la implementación efectiva de aplicaciones web, cubriendo temas como servidores web, despliegue de aplicaciones, seguridad web y mejores prácticas en el desarrollo y mantenimiento de proyectos web.                      |
 
 [Enlace al archivo hardware](./hardware/hardware1.md)
+
+[Enlace al archivo hardware2](./hardware/hardware2.md)
